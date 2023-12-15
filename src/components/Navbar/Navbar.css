@@ -1,0 +1,12 @@
+.active {
+  /* background-color: white; */
+  color: #493971;
+  font-weight: 600;
+}
+
+.active div{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
